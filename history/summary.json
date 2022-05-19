@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.namthplayground.com",
     "slug": "proxy-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.89%",
+    "uptimeDay": "10.19%",
+    "uptimeWeek": "87.17%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "95.89%",
     "time": 730,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-19": 43,
+      "2022-05-18": 1251
     }
   }
 ]
