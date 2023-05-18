@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-server",
     "status": "up",
-    "uptime": "83.97%",
+    "uptime": "84.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "87.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.68%",
     "uptimeYear": "83.10%",
     "time": 202,
-    "timeDay": 220,
-    "timeWeek": 204,
-    "timeMonth": 208,
+    "timeDay": 173,
+    "timeWeek": 192,
+    "timeMonth": 206,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-05-10": 82,
@@ -80,8 +80,7 @@
       "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
-      "2022-05-19": 1440,
-      "2022-05-18": 1251
+      "2022-05-19": 1440
     }
   }
 ]
