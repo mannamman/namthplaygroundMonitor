@@ -4,8 +4,8 @@
     "url": "www.namthplayground.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-server",
-    "status": "up",
-    "uptime": "86.49%",
+    "status": "down",
+    "uptime": "86.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 209,
     "timeYear": 204,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-05-30": 25,
       "2023-05-10": 82,
       "2023-05-09": 995,
